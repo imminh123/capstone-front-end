@@ -4,7 +4,7 @@ import { Layout, Menu, Icon } from 'antd';
 
 import './index.scss';
 import LongLogo from './logo.png';
-import ShortLogo from './logo2.png';
+import ShortLogo from './logo2.jpg';
 const { Sider } = Layout;
 
 class SideMenu extends React.Component {
